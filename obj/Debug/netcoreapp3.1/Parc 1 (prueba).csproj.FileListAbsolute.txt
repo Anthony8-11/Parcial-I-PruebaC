@@ -1,0 +1,13 @@
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).csprojAssemblyReference.cache
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).AssemblyInfoInputs.cache
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).AssemblyInfo.cs
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).csproj.CoreCompileInputs.cache
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).exe
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).deps.json
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).runtimeconfig.json
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).runtimeconfig.dev.json
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).dll
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\bin\Debug\netcoreapp3.1\Parc 1 (prueba).pdb
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).dll
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).pdb
+C:\Users\Hernández\Desktop\dfg\Progra I\Parcial I\Parc 1 (prueba)\Parc 1 (prueba)\obj\Debug\netcoreapp3.1\Parc 1 (prueba).genruntimeconfig.cache
